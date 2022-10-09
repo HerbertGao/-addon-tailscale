@@ -2,6 +2,7 @@
 
 ## 1.30.2.0
 - Tailscale package updated to version `1.30.2`
+- Added the `reset` option
 
 ## 1.30.1.0
 - Tailscale package updated to version `1.30.1`
